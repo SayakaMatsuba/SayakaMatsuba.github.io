@@ -58,7 +58,7 @@ a{
 	width:100%;
 	padding-top: 80px;
 	height: 750px;
-	background-image:url("img/680928_m_wi/top.jpg")
+	background-image:url("C:/Users/さやか/Desktop/SayakaMatsuba/last/img/680928_m_wi/top.jpg");
 	}
 
 .container{
@@ -74,7 +74,7 @@ a{
 
 .section-title{
 	height:150px;
-	background-image: url("img/34abc9fc2dee044f85054b15c2153a08_m.jpg");
+	background-image: url("C:/Users/さやか/Desktop/SayakaMatsuba.github.io/last/img/34abc9fc2dee044f85054b15c2153a08_m.jpg");
 	background-size: cover;
 	opacity: 0.5;
 }
@@ -118,13 +118,13 @@ h2{
 
 .contents1 {
 	float:left;
-	width:500px;
+	width:40%;
 
 }
 
 .contents2 {
 	float: right;
-	width:500px;
+	width:40%
 
 }
 
@@ -206,12 +206,11 @@ h6{
 	height:200px;
 	width:300px;
 	/*position: absolute;*/
-	top:20px;
-	right:500px;
+	
 }
 
 .map{
-	clear:both;
+	width: 100%;
 
 }
 
